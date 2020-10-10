@@ -1,10 +1,10 @@
-title: devlopr
+title: Soham Joshi
 subtitle: A Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sjoshi5.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
@@ -29,7 +29,7 @@ author: Soham Joshi
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "sohamjoshi510@gmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://sjoshi5.github.io"
 typewrite-text: Math. Data. Code.
 
 author_work_experiences:
