@@ -1,7 +1,4 @@
 title: Soham Joshi
-subtitle: A Jekyll Theme Built for Developers
-description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "https://sjoshi5.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -61,16 +58,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+github_username:  sjoshi5
+linkedin_username: soham-joshi-24272615b
+instagram_username: daq.brown
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
