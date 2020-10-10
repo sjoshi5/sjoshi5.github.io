@@ -25,26 +25,32 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: Soham Joshi
+author: John Doe
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "sohamjoshi510@gmail.com"
+author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
-typewrite-text: Math. Data. Code.
+typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 author_work_experiences:
-            - company_name: AlgoAsylum
+            - company_name: Google
               company_logo: google.png
-              company_url: https://algoasylum.github.io
-              designation: Data Science Research Intern
-              description: Topological Data Analysis, Fourier Transforms, Epidemiology
+              company_url: https://google.com
+              designation: Software Engineer
+              description: Worked on various Google Products
+              visibility: true
+            - company_name: Microsoft
+              company_logo: microsoft.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
               - college_logo: mit.png
                 college_name: MIT
                 college_url: https://mit.org
-                college_degree: Electronics and Telecommunication
+                college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
 
