@@ -21,7 +21,7 @@ urls:
 
 # Edit these details
 
-author_logo: profile.png
+author_logo: SohamJ.jpg
 author: Soham Joshi
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "sohamjoshi510@gmail.com"
@@ -31,18 +31,18 @@ typewrite-text: Math. Data. Code.
 
 author_work_experiences:
             - company_name: AlgoAsylum
-              company_logo: google.png
+              company_logo: AA.jpg
               company_url: https://algoasylum.github.io
               designation: Data Science Research Intern
               description: Topological Data Analysis, Fourier Transforms, Epidemiology
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: Electronics and Telecommunication
-                description: Bachelor of Technology
+              - college_logo: vit.png
+                college_name: Vishwakarma Institute of Technology
+                college_url: http://www.vit.edu/
+                college_degree: B.Tech Electronics and Telecommunication
+                description: 2017 - 2021
                 visibility: true
 
 author_project_details:
