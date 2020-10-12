@@ -488,7 +488,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background: url('../assets/img/wall.jpg');
+    background-image: url('../assets/img/wall.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
