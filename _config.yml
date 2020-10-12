@@ -20,7 +20,7 @@ urls:
       url: /get-started
 
 # Edit these details
-
+wall : wall.jpg
 author_logo: SohamJ.jpg
 author: Soham Joshi
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
