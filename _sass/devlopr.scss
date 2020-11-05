@@ -228,7 +228,7 @@ header {
     color: #ff7601 !important;
 }
 .navbar-dark .navbar-nav .nav-link {
-    color: #E56D09 !important;
+    color: #3b8fea !important;
 }
 .navbar-dark .navbar-toggler {
     border-color:transparent !important;
@@ -488,7 +488,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url("https://i.redd.it/xyhr1iyig3t51.jpg");
+    background-image: url("https://images.unsplash.com/photo-1577805996407-e3b01fbdbc77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
     background-attachment: fixed;
     background-size: cover;
     background-position: 10% 0%;
@@ -515,15 +515,15 @@ header {
 }
 
 .jumbotron-heading{
-    color: #111;
-    font-size: 70px;
+    color: #253960;
+    font-size: 85px;
     font-weight: 600;
 }
 
 .lead {
     font-size: 1.68rem !important;
     font-weight: 900;
-    color: #111 !important;
+    color: #253960 !important;
 }
 
 .fa {
@@ -724,8 +724,7 @@ header {
 }
 
 .author-profile-img {
-    width: 380px;
-    height: 330px;
+    width:28vw;height:30vw; padding-top:2vw; padding-left:1vw; 
 }
 
 .blog-post {
