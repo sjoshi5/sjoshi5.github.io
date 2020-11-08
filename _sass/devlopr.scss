@@ -181,7 +181,13 @@ blockquote {
     background: #333;
   }
 
-h1, h2, h3, h4, h5, h6 {
+h1{
+    color: #d17b0c !important;
+    line-height: 1.1;
+    text-shadow: 1px 1px 0 #000;
+
+} 
+h2, h3, h4, h5, h6 {
   color: var(--bold-color) !important;
   line-height: 1.1;
 }
