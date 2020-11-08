@@ -2,7 +2,7 @@
 
 /* variables */
 $body-typeface:'Oswald', sans-serif;
-$nav-typeface: "Quattrocento";
+$nav-typeface: "Oswald",sans-serif;
 $mono-typeface: Menlo, Monaco, monospace;
 $text-width: 650px;
 
@@ -117,7 +117,7 @@ ol, ul {
 body {
     background-color: var(--main-background-color) !important;
     color: var(--main-text-color) !important;
-    Font-Family: 'Oswald', Sans-Serif !important;
+    Font-Family: 'Roboto Light', Sans-Serif !important;
     font-feature-settings: "kern"on;
     font-size: 1.4rem;
     font-variant-numeric: oldstyle-nums;
