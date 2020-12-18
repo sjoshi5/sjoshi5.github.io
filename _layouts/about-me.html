@@ -8,7 +8,7 @@ layout: default
       <a href="/">
         <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
       </a>
-      <h1 class="profile-name" style="color">{{ site.title }}</h1>
+      <h1 class="profile-name">{{ site.title }}</h1>
       <p class="profile-bio">{{ site.subtitle }}</p>
       
       <p>{{ site.author_bio }}</p>
@@ -103,7 +103,16 @@ layout: default
     {% endif %} 
     {% if site.show_author_project_details == true %}
     <div id="author_projects" class="card">
-      <h1 class="card-title">Projects</h1>
+      <div class="row ">
+        <div class="col-md-9">
+          <h1 class="card-title">Projects</h1>
+        </div>
+        <div class="col-md-9">
+          <p>
+            <a class="btn btn-lg btn-dark" href="/blog">View All</a>
+          </p>
+        </div>
+      </div>
       <br />
       {% for project in site.author_project_details %} {% if project.visibility
       == true %}
@@ -114,7 +123,7 @@ layout: default
             class="project-img"
           />
         </div>
-        <div class="col-md-4 center">
+        <div class="col-md-5 center">
           <h4 class="experience-title">{{ project.project_title }}</h4>
           <h6 class="experience-info">{{ project.project_info}}</h6>
           <p class="experience-desc">{{ project.project_description }}</p>
