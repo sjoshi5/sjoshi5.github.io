@@ -2,7 +2,7 @@
 layout: page
 menus: header
 title: TDA-UMAP
-permalink: /TDA/
+permalink: /projects/TDA/
 ---
 
 <h1 class="text-center"> Accurate Contagion Network Models using Topological Data Analysis </h1>
