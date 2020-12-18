@@ -5,11 +5,24 @@ title: TDA-UMAP
 permalink: /projects/TDA/
 ---
 
-<h1 class="text-center"> Accurate Contagion Network Models using Topological Data Analysis </h1>
+<h2 style="font-size:3rem"> Modelling Contagion Networks </h2>
+<h3> using Topological Data Analysis and Riemannian Manifolds</h3>
 
 <hr />
 
- <img src="/assets/img/styleguide.png" class="img-fluid">
+ <img src="/assets/img/TDA_UMAP/UMAP.jpg" class="img-fluid">
+
+<h4>Inferring networks from data | Analyzing attributed graphs</h4>
+<br/>
+<p> Varying degrees of isolation are being put into effect in order to contain the COVID-19 pandemic. These range from simply recommending ‘shelter in place’ to complete lockdown of cities and intense testing, contact tracing and individual quarantining. Epidemiologists and governments are struggling to achieve a balance between these extremes, and an invaluable tool in this effort is simulating the spread under different assumptions. The latest work on this front is presented in work from Google and Tel Aviv University (Reich, Shalev, & Kalvari, 2020), where the authors show, among other conclusions, the influence of people with a large number of connections, and the impact of different policies. These insights can significantly guide policy responses to new and existing outbreaks in a city. The overall setup for the simulation is as shown in the following schematic.</p>
+
+<img src="/assets/img/TDA_UMAP/before_flowchart.png" class="img-fluid">
+<i>Figure 1: Current Network Simulation Setup</i>
+
+<p>A major drawback of this and other network simulations is a lack of an underlying graph that accurately captures the scenario being modelled. Simulations are done on randomly generated structures, and (valuable) conclusions are drawn from these outcomes. We posit that while such analyses are useful for general guidelines, they are not effective for specific scenarios. A further shortcoming is that results and recommendations may vary widely with small changes in the underlying graph.</p>
+
+
+
 
 <p> Lets try the different text styles  <b> Bold </b> , <strong> Strong </strong>, <em> Emphasis </em>, <i> Italic </i> </p>
 

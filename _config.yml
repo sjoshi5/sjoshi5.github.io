@@ -44,7 +44,7 @@ author_education_details:
 
 author_project_details:
               - project_thumbnail: UMAP (2).png
-                project_title: Accurate Contagion Network Models using Topological Data Analysis
+                project_title: Modelling Contagion Networks using Topological Data Analysis
                 project_description: Simulating epidemics based on population Networks implemented using Topological Data Analysis
                 project_url: https://github.com/algoasylum/TDA-UMAP
                 visibility: true
