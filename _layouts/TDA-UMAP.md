@@ -1,8 +1,8 @@
 ---
 layout: page
 menus: header
-title: Styleguide
-permalink: /TDA-UMAP
+title: TDA-UMAP
+permalink: /TDA-UMAP/
 ---
 
 <h1 class="text-center"> Accurate Contagion Network Models using Topological Data Analysis </h1>
