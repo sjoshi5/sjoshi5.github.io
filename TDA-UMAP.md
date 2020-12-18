@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projcard
 menus: header
 title: TDA-UMAP
 permalink: /projects/TDA/
