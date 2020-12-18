@@ -1,5 +1,5 @@
 ---
-layout: card
+layout: page
 menus: header
 title: TDA-UMAP
 permalink: /projects/TDA/
@@ -13,7 +13,7 @@ permalink: /projects/TDA/
  <img src="/assets/img/TDA_UMAP/UMAP.jpg" class="img-fluid">
 
 <h4>Inferring networks from data | Analyzing attributed graphs</h4>
-<br/>
+
 <p> Varying degrees of isolation are being put into effect in order to contain the COVID-19 pandemic. These range from simply recommending ‘shelter in place’ to complete lockdown of cities and intense testing, contact tracing and individual quarantining. Epidemiologists and governments are struggling to achieve a balance between these extremes, and an invaluable tool in this effort is simulating the spread under different assumptions. The latest work on this front is presented in work from Google and Tel Aviv University (Reich, Shalev, & Kalvari, 2020), where the authors show, among other conclusions, the influence of people with a large number of connections, and the impact of different policies. These insights can significantly guide policy responses to new and existing outbreaks in a city. The overall setup for the simulation is as shown in the following schematic.</p>
 
 <img src="/assets/img/TDA_UMAP/before_flowchart.png" class="img-fluid">
