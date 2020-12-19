@@ -6,5 +6,5 @@ permalink: /resume/
 ---
 
 <h1>Resume</h1>
-<iframe src="https://github.com/sjoshi5/sjoshi5.github.io/blob/master/_data/Resume/Soham_Joshi_Resume.pdf" width="100%" height="500px">
+<embed src="/Resume/Soham_Joshi_Resume.pdf" type="application/pdf" width="100%" height="100%">
 </iframe>
