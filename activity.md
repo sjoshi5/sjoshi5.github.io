@@ -11,7 +11,7 @@ permalink: /activity/
     </h1>
 </div>
 <div class="col-lg-8 offset-md-2">
-    <h3>My PyCon India 2020 Talk <br> 
+    <h3>My PyCon India 2020 Talk is on Youtube <br> 
         <i style="font-size: 15px; text-align: right;">December 3 ,2020</i> 
     </h3>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OpZqfGXVB5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -37,5 +37,10 @@ permalink: /activity/
         <a href=""> Abhishek Deshpande</a>,
         <a href=""> Varad Deshmukh</a> and
         <a href=""> Shrirang Karandikar</a>)</p>
+    <br>
+    <h3> Joined AlgoAsylum as a Data Science and Resarch Intern!<br> 
+       <i style="font-size: 15px; text-align: right;">July 1 ,2020</i> 
+    </h3>
+    <p>Starting as an intern for 6 months (and maybe more) to work on projects involving Machine Learning, Fourier analysis, Riemannian Geometry and Algebraic Topology.</p>
     <br>
     </div>
