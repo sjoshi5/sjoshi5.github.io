@@ -48,7 +48,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: UMAP (2).png
                 project_title: Modelling Contagion Networks using Topological Data Analysis
-                project_description: Simulating epidemics based on population Networks implemented using Topological Data Analysis
+                project_description: Implementing SEIR Epidemic simulations using Networks Graphs from UMAP 
                 project_url: https://github.com/algoasylum/TDA-UMAP
                 visibility: true
               - project_thumbnail: Dyslexia.jpg
@@ -74,7 +74,7 @@ wakatime_username: sujaykundu777
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: sohamjoshi510@gmail.com
 
 # syntax highlighter
 markdown: kramdown
