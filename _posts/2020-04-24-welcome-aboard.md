@@ -1,6 +1,6 @@
 ---
 layout: post
-author: John Doe
+author: Soham Joshi
 title: Welcome Aboard!
 date: '2020-04-24 14:35:23 +0530'
 thumbnail: /assets/img/posts/intro.png
