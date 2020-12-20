@@ -7,7 +7,7 @@ thumbnail: /assets/img/posts/wwint.jpg
 category: World War
 summary: 
 keywords: 
-permalink: /blog/welcome-aboard
+permalink: /blog/great-war
 ---
 *History was always a boring topic for me and I really don’t understand why they wrote such amazing events in such a mundane way. Why not get a big chunk of information in a fun way via a 2 min read. Here goes my attempt to entertain.*
 
