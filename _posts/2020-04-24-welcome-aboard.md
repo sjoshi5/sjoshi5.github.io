@@ -3,7 +3,7 @@ layout: post
 author: John Doe
 title: Welcome Aboard!
 date: '2020-04-24 14:35:23 +0530'
-thumbnail: /assets/img/posts/intro.jpg
+thumbnail: /assets/img/posts/intro.png
 category: Uncategorized
 summary: 
 keywords: 
