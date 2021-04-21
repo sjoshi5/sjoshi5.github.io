@@ -14,13 +14,13 @@ permalink: /activity/
     <h3> Admitted to Columbia!<br> 
        <i style="font-size: 15px; text-align: right;">March 19 ,2021</i> 
     </h3>
-    <img src="/assets/img/posts/columbia.jpg" class="img-fluid">
+    <img src="/assets/img/columbia.jpg" class="img-fluid">
     <p> First choice Ivy League admit! Couldn't be happier! Also got into CU Boulder :P</p>
     <br>
     <h3> Got accepted into New York University!<br> 
        <i style="font-size: 15px; text-align: right;">March 9 ,2021</i> 
     </h3>
-    <img src="/assets/img/posts/nyu.png" class="img-fluid">
+    <img src="/assets/img/nyu.png" class="img-fluid">
     <p>After admits from NYU Tandon, Northeastern University and a reject from Georgia Tech, I got an admit from NYU CDS. It is one of my Top schools. Waiting for Columbia now! :D </p>
     <br>
     <h3>My PyCon India 2020 Talk is on Youtube!<br> 
