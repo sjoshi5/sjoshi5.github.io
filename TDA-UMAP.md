@@ -2,6 +2,7 @@
 layout: page
 menus: header
 title: TDA-UMAP
+thumbnail: /assets/img/TDA_UMAP/UMAP.jpg
 permalink: /projects/TDA/
 ---
 
